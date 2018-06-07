@@ -1,6 +1,10 @@
 # fileBlender 文件混合器
 一个可以把两个文件以行为单位随机抽取组成新文件的小程序
 
+#### 下载地址
+
+[点击下载](https://github.com/joenahm/fileBlender/releases/download/v0.1/fileBlender.jar)
+
 #### 程序截图
 
 ![](imgs/shot1.png)
