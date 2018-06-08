@@ -3,9 +3,11 @@
 
 #### 下载地址
 
-[点击下载 v0.2](https://github.com/joenahm/fileBlender/releases/download/v0.2/fileBlender.jar)
+[点击下载 v0.2.1](https://github.com/joenahm/fileBlender/releases/download/v0.2/fileBlender.jar)
 
 #### 更新
+
+v0.2.1 修复小bug：默认回车作为分隔符的情况下不能正确分割、混合文件
 
 v0.2版本支持自定义分隔符，且分隔符支持正则表达式
 
