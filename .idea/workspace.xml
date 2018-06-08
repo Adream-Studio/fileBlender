@@ -7,34 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7300846-e7b3-4d19-af89-ae95824bf5ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/fileBlender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileBlender.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$AddFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$Blend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$ExportFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$OpenLink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$SetEncoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller$UpdateBlockNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fileBlender/Launcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/fileBlender/fileBlender.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/fileBlender/fileBlender.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$AddFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$Blend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$ExportFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$OpenLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$SetEncoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm$UpdateLines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/mainForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fileBlender/mainForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fileBlender/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fileBlender/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fileBlender/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Launcher.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="57">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -66,8 +44,8 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="361">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainForm.form" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mainForm.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mainForm.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
@@ -95,10 +73,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Launcher.java" />
         <option value="$PROJECT_DIR$/src/mainForm.java" />
-        <option value="$PROJECT_DIR$/src/Controller.java" />
         <option value="$PROJECT_DIR$/src/mainForm.form" />
+        <option value="$PROJECT_DIR$/src/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Launcher.java" />
       </list>
     </option>
   </component>
@@ -122,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -141,6 +117,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,11 +212,12 @@
       <workItem from="1528418028264" duration="3942000" />
       <workItem from="1528422009932" duration="266000" />
       <workItem from="1528422293706" duration="116000" />
+      <workItem from="1528427293344" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4324000" />
+    <option name="totallyTimeSpent" value="4436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1034" extended-state="6" />
@@ -257,7 +236,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295325" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108742006" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -335,6 +314,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mainForm.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainForm.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
@@ -360,13 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -374,18 +373,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="361">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mainForm.form">
-      <provider selected="true" editor-type-id="ui-designer" />
+    <entry file="file://$PROJECT_DIR$/src/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

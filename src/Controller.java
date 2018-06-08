@@ -44,10 +44,10 @@ class Controller extends mainForm{
         String splitter;
         if( type == 1 ){
             textArea = text1;
-            splitter = splitter1.getText()==null ? "\n" : splitter1.getText();
+            splitter = splitter1.getText().equals("") ? "\n" : splitter1.getText();
         }else{
             textArea = text2;
-            splitter = splitter2.getText()==null ? "\n" : splitter2.getText();
+            splitter = splitter2.getText().equals("") ? "\n" : splitter2.getText();
         }
 
         String[] temp;
