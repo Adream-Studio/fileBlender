@@ -3,7 +3,7 @@
 
 #### 下载地址
 
-[点击下载 v0.2.1](https://github.com/joenahm/fileBlender/releases/download/v0.2/fileBlender.jar)
+[点击下载 v0.2.1](https://github.com/Adream-Studio/fileBlender/releases/download/v0.2.1/fileBlender.jar)
 
 #### 更新
 
